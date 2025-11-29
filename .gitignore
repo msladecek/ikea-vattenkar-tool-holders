@@ -1,6 +1,8 @@
 *
 !tool_holder.scad
 !BOSL2
+!images
+!images/*
 !.gitignore
 !README.md
 !LICENSE
