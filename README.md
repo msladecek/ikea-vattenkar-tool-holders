@@ -1,3 +1,7 @@
+# NOTICE
+
+Moved to [`msladecek/openscad-models`](https://github.com/msladecek/openscad-models).
+
 # IKEA VATTENKAR Tool Holders
 
 A simple 3d model for tool holders that clip onto the ikea vattenkar mini-shelves.
